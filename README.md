@@ -44,11 +44,10 @@
 
 #### 🔗 Web3 & Blockchain
 
-<p align="left">
+**Web3 & Blockchain**
 - Ethereum
-- BSV 
 - SUI
-</p>
+- BSV
 
 ---
 
