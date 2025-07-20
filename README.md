@@ -43,8 +43,6 @@
 </p>
 
 #### 🔗 Web3 & Blockchain
-
-**Web3 & Blockchain**
 - Ethereum
 - SUI
 - BSV
