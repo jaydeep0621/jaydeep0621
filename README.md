@@ -24,33 +24,39 @@
 #### 🚀 Languages & Frameworks
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40"/>
 </p>
 
 #### 🗄️ Databases & Messaging
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/stack/kafka.svg" alt="Apache Kafka" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40"/>
 </p>
 
 #### 🔗 Web3 & Blockchain
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40" height="40"/>
-  <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg?v=026" alt="BNB / BSC" width="40" height="40"/>
-  <img src="https://cryptologos.cc/logos/bitcoin-sv-bsv-logo.svg?v=026" alt="BSV" width="40" height="40"/>
-  <img src="https://cryptologos.cc/logos/sui-sui-logo.svg?v=026" alt="SUI blockchain" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Smart Contracts" width="40" height="40"/>
-  <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg?v=026" alt="Polygon / Matic" width="40" height="40"/>
+  <!-- Ethereum -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40"/>
+  <!-- BNB/BSC (using Simple Icons) -->
+  <img src="https://cdn.simpleicons.org/binance/FAKEFAKEFAKE" alt="BNB/BSC" width="40" style="filter: grayscale(20%);" />
+  <!-- BSV (Bitcoin SV) using simpleicons; fallback to blockchain icon if fails -->
+  <img src="https://cdn.simpleicons.org/bitcoinsv" alt="BSV" width="40"/>
+  <!-- SUI Blockchain (use creative blockchain icon as fallback if SVG fails) -->
+  <img src="https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@main/icons/blockchain.svg" alt="SUI" width="40"/>
+  <!-- Smart Contracts (use creative contract icon from Flaticon) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/1485/1485531.png" alt="Smart Contract" width="40"/>
+  <!-- Polygon (Matic) via Simple Icons -->
+  <img src="https://cdn.simpleicons.org/polygon" alt="Polygon" width="40"/>
 </p>
 
 ---
