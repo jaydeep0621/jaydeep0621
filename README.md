@@ -47,9 +47,9 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40" height="40"/>
   <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg?v=026" alt="BNB / BSC" width="40" height="40"/>
-  <img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.svg?v=026" alt="BSV / BCH" width="40" height="40"/>
+  <img src="https://cryptologos.cc/logos/bitcoin-sv-bsv-logo.svg?v=026" alt="BSV" width="40" height="40"/>
   <img src="https://cryptologos.cc/logos/sui-sui-logo.svg?v=026" alt="SUI blockchain" width="40" height="40"/>
-  <img src="https://cryptologos.cc/logos/ethereum-classic-etc-logo.svg?v=026" alt="Smart Contracts" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Smart Contracts" width="40" height="40"/>
   <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg?v=026" alt="Polygon / Matic" width="40" height="40"/>
 </p>
 
