@@ -1,5 +1,8 @@
-<h1 align="center">Hey 👋, I'm Jaydeep</h1>
-<h3 align="center">🚀 Senior Full Stack & Blockchain Developer | Builder of Scalable, Smart Products 🌍</h3>
+<h1 align="center">Hey 👋, I'm Jaydeep!</h1>
+
+<h3 align="center">🚀 Senior Full Stack & Blockchain Developer | Integration Expert | Tech Innovator</h3>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+%7C+Blockchain+Developer;Building+Scalable+Real-Time+Apps;5%2B+Years+of+Dev+Experience;Always+Learning+%26+Experimenting" alt="Typing SVG" />
@@ -7,57 +10,76 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👋 About Me
 
-- 💼 **I’m currently a Senior Full Stack & Blockchain Developer**, with over **5 years** of experience building high-performance, enterprise-grade applications.
-- 🧠 Rapid problem solver and quick learner, I thrive on shipping solutions that scale!
-- 🛠️ Recently built and led **entire integration ecosystem for Ludo**, connecting:
-  - Klaviyo, Shopify, Instagram, Twitter (X), Stripe, Discord...
-  - Resulting in **20+ new enterprise clients onboarded**.
-  - Post-feature release, **reduced customer support requests by 20%** 🚀.
-- 📈 Proven track record of shipping impactful features & automations that matter.
+- **Experienced Full Stack & Blockchain Developer** with 5+ years delivering robust, scalable solutions.
+- *Adaptive, fast learner,* always excelling in new environments and technologies.
+- *Passionate about integrating cutting-edge tools and platforms* to elevate products and streamline user experiences.
+- Proven ability to **onboard 20+ enterprise clients**, with automation reducing customer support needs by 20%.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🧰 Languages & Frameworks:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6F61?logo=api&logoColor=white)
+**Languages & Frameworks**
+- Node.js
+- TypeScript & JavaScript
+- Express.js
+- React Js
+- Next Js
+- REST API Development
 
-#### 🧬 Databases & Messaging Queues:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
+**Databases & Messaging**
+- MongoDB
+- SQL
+- Postgre SQL
+- Redis
+- Apache Kafka
 
-#### ⛓️ Web3 & Blockchain:
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
-🔗 Smart Contract Integrations | Wallet Connects | dApps | Web3 Infra Setup
-
----
-
-### 🚀 Notable Contributions
-- ✅ Automated onboarding and support flows, scaling to dozens of enterprise clients with less team bloat.
-- ✅ Enabled seamless event-based architecture using Kafka and Redis for real-time systems.
-- ✅ Created modular, clean microservices using Node.js + Typescript under high load.
-
----
-
-### 🌱 Outside Tech
-- 🧪 Constantly experimenting with new frameworks and tools.
-- 🧠 Always exploring the next big trend in the dev world.
-- ☕ Powered by caffeine and curiosity.
+**Web3 & Blockchain**
+- Ethereum
+- SUI
+- BSV
+- Smart Contracts
+- Decentralized Apps (dApps)
 
 ---
 
-### 📫 Let's Connect
+### 🔗 Highlight Integrations
+
+I have designed, built, and automated integrations with:
+
+- **Klaviyo:** Automated marketing flows and data pipelines
+- **Shopify:** Commerce integration and scalable storefront solutions
+- **Instagram & X (Twitter):** Social authentication, real-time analytics
+- **Stripe:** Secure payments & financial services
+- **Discord:** Community management bots & workflow automations
+
+---
+
+### 🚀 Achievements
+
+- Delivered seamless, robust integrations that enabled onboarding of 20+ enterprise clients
+- Reduced customer support queries by 20% through automation and feature-driven workflows
+- Architected event-driven, scalable backends using Kafka & Redis
+
+---
+
+### 🌱 Beyond Coding
+
+- *Always exploring new tech trends and frameworks*
+- *Energized by creativity and innovation*
+- *Motivated by curiosity, progress, and great coffee ☕*
+
+---
+
+### 📬 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jaydeep0621/)   
 - 📬 Email: jaydeep0216@gmail.com
 
 ---
 
-<h3 align="center">🔥 Building for the future • One commit at a time 🚀</h3>
+<h3 align="center">Building tomorrow — one integration at a time 🚀</h3>
+
+---
