@@ -45,18 +45,9 @@
 #### 🔗 Web3 & Blockchain
 
 <p align="left">
-  <!-- Ethereum -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40"/>
-  <!-- BNB/BSC (using Simple Icons) -->
-  <img src="https://cdn.simpleicons.org/binance/FAKEFAKEFAKE" alt="BNB/BSC" width="40" style="filter: grayscale(20%);" />
-  <!-- BSV (Bitcoin SV) using simpleicons; fallback to blockchain icon if fails -->
-  <img src="https://cdn.simpleicons.org/bitcoinsv" alt="BSV" width="40"/>
-  <!-- SUI Blockchain (use creative blockchain icon as fallback if SVG fails) -->
-  <img src="https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@main/icons/blockchain.svg" alt="SUI" width="40"/>
-  <!-- Smart Contracts (use creative contract icon from Flaticon) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/1485/1485531.png" alt="Smart Contract" width="40"/>
-  <!-- Polygon (Matic) via Simple Icons -->
-  <img src="https://cdn.simpleicons.org/polygon" alt="Polygon" width="40"/>
+- Ethereum
+- BSV 
+- SUI
 </p>
 
 ---
